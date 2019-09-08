@@ -1,0 +1,349 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0fc0fbced805d9f27322438c4b7b639e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:2:1-26:12
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.iammert:ReadableBottomBar:0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/695ca519576fb062d9ce9a88fa4561d8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f56378ee3161f2e86566f3d279d80597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6c930a8b73419a1ce9a3de5133b9c0fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/603d65892772c5cafd0d5e979ad864cc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2a36dcdb3c480273677bc4fe75a0e069/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8f8efbd146f03fe0dd279429b298667d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9280074ff58604eb89b5ad73f06df15b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/35d277f4e59dbd000e3ea356f4c23448/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/15d5b17ae4d2db6f59d5fb6ff8498c96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/5003767483f7a13a88531464f4c926c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-dynamic-animation:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/1bdd16ecf253e8205942a9c905bca5a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/a36890aae054b44e71295b94ee1a6c75/AndroidManifest.xml:2:1-11:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/178497e54bd9b334bc732c6389e6e40f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.romandanylyk:pageindicatorview:1.0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7f1279890618b1eb215acf419d2d5a82/AndroidManifest.xml:2:1-11:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/76df3cb5b217e79c485ca515e12a68c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f6dd6026ee46a4c3f209f7af767c91f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/171ec9d7c5d1dd2255f14caed9b0b772/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9ec0c255feb920c201ef63d5bb3e638/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d960330f98e16e6b33bf288d00e99d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ed0c1c497f6e8d36a674439dabd424ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7a1665d1f0c416d709b3a73ec778cf47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/c6be563887e8cae61da34b1dc7e52d53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/39e26d9fb4bca92bbd67ad72cd9a5a9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/73b8cf0ff715a8e5fcefec78214f4a6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9e1293d9b8ed9f60a688935714da726e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e142f8f47cb0e21ebc02084b80042550/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/741c8b0f136eb368d140a44be375a0ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/dfc39a928643bf329066ac6495193392/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/cbc6f4556e5268848ef0037b256508b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/66c7286e144ec0961eea5f1c27f87d77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7104d3ebddab1bb7fedfbd9b6cc4f653/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d3f04a8dd7449ee8b843d54222aaba6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/fb8e14b12b29d9349d4e70bf7f60a088/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0d2ce7c7be90d4c74c7039d19bd08255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9010289935c6619888d2f458e06eda9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8bdcbb4ace53517d8281e5a63203a496/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d59f1960879753d6ae9c99a151ef7dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/b288f54e7710bb833715e233d8db27c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3a8bbfb1e33031edcf44549c59584285/AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2490f76dd07a310e2c42982d03860845/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6bba77f76b51504dea04dbd568a232f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9622a938a1083dc6914609d97e9546d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d2a493d010da6616cc75d6884eb4198b/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0fc0fbced805d9f27322438c4b7b639e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0fc0fbced805d9f27322438c4b7b639e/AndroidManifest.xml:22:5-20
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:13:5-24:19
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:11:5-15:19
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/603d65892772c5cafd0d5e979ad864cc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/603d65892772c5cafd0d5e979ad864cc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2a36dcdb3c480273677bc4fe75a0e069/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2a36dcdb3c480273677bc4fe75a0e069/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8f8efbd146f03fe0dd279429b298667d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8f8efbd146f03fe0dd279429b298667d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9280074ff58604eb89b5ad73f06df15b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9280074ff58604eb89b5ad73f06df15b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/35d277f4e59dbd000e3ea356f4c23448/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/35d277f4e59dbd000e3ea356f4c23448/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/a36890aae054b44e71295b94ee1a6c75/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/a36890aae054b44e71295b94ee1a6c75/AndroidManifest.xml:9:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/178497e54bd9b334bc732c6389e6e40f/AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/178497e54bd9b334bc732c6389e6e40f/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7104d3ebddab1bb7fedfbd9b6cc4f653/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7104d3ebddab1bb7fedfbd9b6cc4f653/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3a8bbfb1e33031edcf44549c59584285/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3a8bbfb1e33031edcf44549c59584285/AndroidManifest.xml:10:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d2a493d010da6616cc75d6884eb4198b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d2a493d010da6616cc75d6884eb4198b/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:9:9-36
+		REJECTED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:12:9-35
+		REJECTED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:14:9-40
+	tools:replace
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:16:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:18:9-20:55
+	android:value
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:19:13-58
+activity#com.iteyes.placesproject.PermissionsActivity
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:22:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.iteyes.placesproject.MapActivity
+ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:31:13-55
+	android:theme
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml:30:13-40
+uses-sdk
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0fc0fbced805d9f27322438c4b7b639e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0fc0fbced805d9f27322438c4b7b639e/AndroidManifest.xml:20:5-44
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/125ae87e4c1f71b07df60b5f9105fbeb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:7:5-44
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.0.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/af0a873d7495a2e8c0770ce065963a2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.iammert:ReadableBottomBar:0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/695ca519576fb062d9ce9a88fa4561d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.iammert:ReadableBottomBar:0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/695ca519576fb062d9ce9a88fa4561d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f56378ee3161f2e86566f3d279d80597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f56378ee3161f2e86566f3d279d80597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6c930a8b73419a1ce9a3de5133b9c0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6c930a8b73419a1ce9a3de5133b9c0fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/603d65892772c5cafd0d5e979ad864cc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/603d65892772c5cafd0d5e979ad864cc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2a36dcdb3c480273677bc4fe75a0e069/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2a36dcdb3c480273677bc4fe75a0e069/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8f8efbd146f03fe0dd279429b298667d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8f8efbd146f03fe0dd279429b298667d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9280074ff58604eb89b5ad73f06df15b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9280074ff58604eb89b5ad73f06df15b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/35d277f4e59dbd000e3ea356f4c23448/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/35d277f4e59dbd000e3ea356f4c23448/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/15d5b17ae4d2db6f59d5fb6ff8498c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/15d5b17ae4d2db6f59d5fb6ff8498c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/5003767483f7a13a88531464f4c926c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/5003767483f7a13a88531464f4c926c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-dynamic-animation:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/1bdd16ecf253e8205942a9c905bca5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-dynamic-animation:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/1bdd16ecf253e8205942a9c905bca5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/a36890aae054b44e71295b94ee1a6c75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/a36890aae054b44e71295b94ee1a6c75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/178497e54bd9b334bc732c6389e6e40f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/178497e54bd9b334bc732c6389e6e40f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.romandanylyk:pageindicatorview:1.0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7f1279890618b1eb215acf419d2d5a82/AndroidManifest.xml:7:5-9:41
+MERGED from [com.romandanylyk:pageindicatorview:1.0.2] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7f1279890618b1eb215acf419d2d5a82/AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/76df3cb5b217e79c485ca515e12a68c8/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/76df3cb5b217e79c485ca515e12a68c8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f6dd6026ee46a4c3f209f7af767c91f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/f6dd6026ee46a4c3f209f7af767c91f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/171ec9d7c5d1dd2255f14caed9b0b772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/171ec9d7c5d1dd2255f14caed9b0b772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9ec0c255feb920c201ef63d5bb3e638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9ec0c255feb920c201ef63d5bb3e638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d960330f98e16e6b33bf288d00e99d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d960330f98e16e6b33bf288d00e99d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ed0c1c497f6e8d36a674439dabd424ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ed0c1c497f6e8d36a674439dabd424ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7a1665d1f0c416d709b3a73ec778cf47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7a1665d1f0c416d709b3a73ec778cf47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/c6be563887e8cae61da34b1dc7e52d53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/c6be563887e8cae61da34b1dc7e52d53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/39e26d9fb4bca92bbd67ad72cd9a5a9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/39e26d9fb4bca92bbd67ad72cd9a5a9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/73b8cf0ff715a8e5fcefec78214f4a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/73b8cf0ff715a8e5fcefec78214f4a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9e1293d9b8ed9f60a688935714da726e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9e1293d9b8ed9f60a688935714da726e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e142f8f47cb0e21ebc02084b80042550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e142f8f47cb0e21ebc02084b80042550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/741c8b0f136eb368d140a44be375a0ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/741c8b0f136eb368d140a44be375a0ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/dfc39a928643bf329066ac6495193392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/dfc39a928643bf329066ac6495193392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/cbc6f4556e5268848ef0037b256508b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/cbc6f4556e5268848ef0037b256508b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/66c7286e144ec0961eea5f1c27f87d77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/66c7286e144ec0961eea5f1c27f87d77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/ce49d8f2d70b67be075e792ff9949e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7104d3ebddab1bb7fedfbd9b6cc4f653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/7104d3ebddab1bb7fedfbd9b6cc4f653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d3f04a8dd7449ee8b843d54222aaba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d3f04a8dd7449ee8b843d54222aaba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/fb8e14b12b29d9349d4e70bf7f60a088/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/fb8e14b12b29d9349d4e70bf7f60a088/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0d2ce7c7be90d4c74c7039d19bd08255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/0d2ce7c7be90d4c74c7039d19bd08255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9010289935c6619888d2f458e06eda9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9010289935c6619888d2f458e06eda9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8bdcbb4ace53517d8281e5a63203a496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/8bdcbb4ace53517d8281e5a63203a496/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d59f1960879753d6ae9c99a151ef7dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3d59f1960879753d6ae9c99a151ef7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/b288f54e7710bb833715e233d8db27c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/b288f54e7710bb833715e233d8db27c2/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3a8bbfb1e33031edcf44549c59584285/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3a8bbfb1e33031edcf44549c59584285/AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2490f76dd07a310e2c42982d03860845/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/2490f76dd07a310e2c42982d03860845/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6bba77f76b51504dea04dbd568a232f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/6bba77f76b51504dea04dbd568a232f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9622a938a1083dc6914609d97e9546d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/e9622a938a1083dc6914609d97e9546d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d2a493d010da6616cc75d6884eb4198b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/d2a493d010da6616cc75d6884eb4198b/AndroidManifest.xml:7:5-43
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gandhikarimi/Downloads/PlacesProject-master/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/4faa33f22a777f4d0b7ebc59b2af762c/AndroidManifest.xml:28:13-60
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:11:22-64
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:20:13-62
+	android:hardwareAccelerated
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/723777ab5d16f95d79bff0cbdf3bfa71/AndroidManifest.xml:17:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/3ce6faebdff212280192b0595d087644/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/53c278a2d687133d03c2889f307953e8/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gandhikarimi/.gradle/caches/transforms-2/files-2.1/9a057e8a7c90d2b59642505ab93c651e/AndroidManifest.xml:24:13-58
